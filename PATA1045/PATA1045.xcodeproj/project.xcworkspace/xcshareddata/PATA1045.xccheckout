@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B526C74F-6EC7-4BB1-B498-56C6862613F6</string>
+	<string>DDA1611A-5F3B-4D0F-952D-21138FF7A8DF</string>
 	<key>IDESourceControlProjectName</key>
 	<string>PATA1045</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>40F3D1D1-662B-4ACB-9132-8BA36B340AB3</key>
+		<key>B4B5AE2B-DD89-4947-9BF2-4C73212C6BC8</key>
 		<string>https://github.com/hxssgaa/PAT.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PATA1045/PATA1045.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>40F3D1D1-662B-4ACB-9132-8BA36B340AB3</key>
+		<key>B4B5AE2B-DD89-4947-9BF2-4C73212C6BC8</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>40F3D1D1-662B-4ACB-9132-8BA36B340AB3</string>
+	<string>B4B5AE2B-DD89-4947-9BF2-4C73212C6BC8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>40F3D1D1-662B-4ACB-9132-8BA36B340AB3</string>
+			<string>B4B5AE2B-DD89-4947-9BF2-4C73212C6BC8</string>
 			<key>IDESourceControlWCCName</key>
 			<string>PAT</string>
 		</dict>
